@@ -1,0 +1,2 @@
+jdbc:sqlserver://localhost:1433, sa, Yamaha2018
+jdbc:sqlserver://localhost:1434, sa, Yamaha2020
